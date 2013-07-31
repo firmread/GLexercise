@@ -3,6 +3,9 @@ GL Exercise
 My playground for develop more understanding on shader language  
 Environment used here is an OpenFrameworks app by Patricio Gonzalez Vivo which you can find source code [here](http://github.com/patriciogonzalezvivo/sNodes)
 
+###My environment
+worked with my OS X 10.8.4
+
 ###Usage
 drag and drop the shader file into the app   
 press "o" to open the current shader file  
